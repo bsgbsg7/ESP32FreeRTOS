@@ -1,2 +1,2 @@
 # ESP32FreeRTOS
-基于ESP-IDF的esp32FreeRTOS学习记录
+基于ESP-IDF和Arduino的esp32FreeRTOS学习记录
