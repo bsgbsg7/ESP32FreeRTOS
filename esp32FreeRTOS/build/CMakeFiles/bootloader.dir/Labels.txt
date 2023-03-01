@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/Files/VSProjects/PlatformIO/Esp32_freeRTOS/esp32FreeRTOS/build/CMakeFiles/bootloader
+E:/Files/VSProjects/PlatformIO/Esp32_freeRTOS/esp32FreeRTOS/build/CMakeFiles/bootloader.rule
+E:/Files/VSProjects/PlatformIO/Esp32_freeRTOS/esp32FreeRTOS/build/CMakeFiles/bootloader-complete.rule
+E:/Files/VSProjects/PlatformIO/Esp32_freeRTOS/esp32FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/Files/VSProjects/PlatformIO/Esp32_freeRTOS/esp32FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/Files/VSProjects/PlatformIO/Esp32_freeRTOS/esp32FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/Files/VSProjects/PlatformIO/Esp32_freeRTOS/esp32FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/Files/VSProjects/PlatformIO/Esp32_freeRTOS/esp32FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/Files/VSProjects/PlatformIO/Esp32_freeRTOS/esp32FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/Files/VSProjects/PlatformIO/Esp32_freeRTOS/esp32FreeRTOS/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
